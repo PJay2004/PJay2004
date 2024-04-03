@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some side projects<br>🌱 I’m currently learning React<br>⚡ Fun fact : I love Gaming
+🔭 I’m currently working on Side Projects<br>🌱 I’m currently learning React<br>⚡ Fun fact : I love Gaming
 
 
 ## 🌐 Socials:
